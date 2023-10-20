@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beblgum
+- 👋 Hi, I’m Begum.
 - 👀 I’m interested in programming, law, IT law, psychology.
 - 🌱 I’m currently learning C# as a computer language.
 - 📫 You can reach me via e-mail. (av.begumtasar@gmail.com)
